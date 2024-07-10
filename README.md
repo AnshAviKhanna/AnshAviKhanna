@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Avi Khanna</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshavikhanna&label=Profile%20views&color=0e75b6&style=flat" alt="anshavikhanna" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshavikhanna&label=Profile%20views&color=0e75b6&style=flat" alt="anshavikhanna" /> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://anshavikhanna.netlify.app/](https://anshavikhanna.netlify.app/)
 
